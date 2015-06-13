@@ -1,3 +1,16 @@
+<b>INTEGRANTES DE PRACTICA DE LARAVEL 5</B>
+<UL>
+<LI>Estefani Tatiana Iraheta López</LI>
+<LI>Marina Raquel Leiva Moreno</LI>
+<LI>Nelson Eduardo Rodríguez Lobos</LI>
+<LI>Jorge Angel Gomez Sanchez</LI>
+<LI>Edgardo Rene Chanta Ortiz</LI>
+<li>Daniel Armando Funes Rivera</li>
+</UL>
+<br>
+<i>DAW 2015- itca-fepade Ciclo III</i>
+<br>
+<br>
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
